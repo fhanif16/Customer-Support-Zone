@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function TaskStatus({task , handleResolved}) {
-    console.log(task.length)
+    // console.log(task.length)
    
   return (
     <div className="p-4 space-y-2 border-2 border-white">
