@@ -4,7 +4,7 @@ import TaskStatus from './TaskStatus'
 import TaskResolved from './TaskResolved'
 
 export default function TicketCards({tickets , handleTask , task , handleResolved,resolvedTask  }) {
-    console.log(task)
+    // console.log(task)
     
 
   return (
