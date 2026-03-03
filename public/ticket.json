@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Login page not loading",
+    "description": "Users are unable to load the login page on Chrome.",
+    "customer": "Acme Corp",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 2,
+    "title": "Error 500 on checkout",
+    "description": "Checkout fails with server error when using PayPal.",
+    "customer": "Beta Inc",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 3,
+    "title": "Password reset email not sent",
+    "description": "Users do not receive password reset emails after request.",
+    "customer": "Gamma LLC",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 4,
+    "title": "Mobile layout broken",
+    "description": "Homepage layout is distorted on iPhone 14.",
+    "customer": "Delta Co",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 5,
+    "title": "Slow page load",
+    "description": "Dashboard loads very slowly after login.",
+    "customer": "Epsilon Ltd",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 6,
+    "title": "Missing invoice attachment",
+    "description": "Invoice PDFs are not attached in confirmation emails.",
+    "customer": "Zeta Corp",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 7,
+    "title": "Cannot upload profile picture",
+    "description": "Profile picture upload fails with 'Invalid format' error.",
+    "customer": "Eta Inc",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 8,
+    "title": "Notification emails delayed",
+    "description": "Some notification emails are received hours late.",
+    "customer": "Theta LLC",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 9,
+    "title": "Search feature not returning results",
+    "description": "Search queries return empty results even when data exists.",
+    "customer": "Iota Co",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 10,
+    "title": "Error in report generation",
+    "description": "Monthly reports fail to generate with 'Timeout' error.",
+    "customer": "Kappa Ltd",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 11,
+    "title": "Incorrect tax calculation",
+    "description": "Checkout calculates tax incorrectly for NY customers.",
+    "customer": "Lambda Corp",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 12,
+    "title": "UI button not clickable",
+    "description": "Submit button on feedback form does not respond.",
+    "customer": "Mu Inc",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-01"
+  }
+]
