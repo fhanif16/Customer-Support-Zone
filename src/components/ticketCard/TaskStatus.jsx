@@ -7,7 +7,7 @@ export default function TaskStatus({task , handleResolved}) {
     <div className="p-4 space-y-2 border-2 border-white">
          
       {task.length === 0 && (
-        <p className="text-md text-gray-500 p-2 ml-2">No Task Yet</p>
+        <p className="text-md text-gray-500  ml-2">No Task Yet</p>
       )}
       {task.map(t => (
         <div key={t.id} className=" bg-white border-2 p-4">
